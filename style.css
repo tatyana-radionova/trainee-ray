@@ -1,0 +1,106 @@
+
+body {
+	width: 960px;
+	margin: 0 auto;
+
+}
+
+
+/*-----Основная информация------*/
+
+.basic-inf {
+	width: 280px;
+	min-height: 100%;
+	background-color: #7f1900;
+	font-family: Tahoma;
+	float: left;
+}
+h1 {
+	width: 800px;
+	height: 60px;
+	background-color: #FFF;
+	margin: 80 0 0 0;
+	font-size: 35pt;
+	font-weight: 100;
+	color: 	#000;
+}
+.photo{
+	width: 280px;
+	height: 375px;	
+}
+.contact-inf{
+	color: 	#FFF;
+	margin: 0 0 0 10;
+}
+
+.contact-inf p {
+	font-weight: 100;
+	font-size: 10pt;
+	margin: 5 0 10 0;
+}
+ address {
+	font-weight: 100;
+	font-size: 12pt;
+	font-style: normal;
+	margin: 0 0 40 140;
+	}
+
+.contact-inf h2 {
+	font-weight: 100;
+	font-size: 14pt;
+	margin: 5 0 0 0;
+}
+
+
+/*-----Дополнительная информация------*/
+
+.additional-inf {
+	font-family: Tahoma;
+	font-size: 12pt;
+	color: 	#000;
+	margin: 0 0 0 310;
+	padding-top: 160;
+
+	/*position:relative;
+	top: 160px;*/
+}
+.additional-inf h2 {
+	font-weight: 100;
+	font-size: 18pt;
+	margin: 0;
+}
+.additional-inf p {
+	font-weight: 100;
+	margin: 5 0 25 0;
+}
+.additional-inf .function {
+	margin: 0 0 25 150;
+}
+ ul {
+	color: #7f1900;
+	margin: 5 0 25 0;
+}
+ li span {
+	color: #000;
+	font-weight: 100;	
+}
+.additional-inf .period {
+	font-size: 10pt;
+	font-weight: bold;
+	margin-top: 10px;
+	color: #7f1900;
+	float: left;
+}
+.additional-inf .work {	
+	font-weight: bold;
+	margin: 10 0 0 150;	
+}
+ .additional-inf .position {
+	color: #1874CD;
+	margin: 10 0 10 150;
+	
+}
+.additional-inf .job-function {
+	margin: 0 0 5 150;
+}
+
