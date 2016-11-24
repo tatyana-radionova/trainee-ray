@@ -1,0 +1,118 @@
+
+.section-5__title {
+	font-size: 1.7em;
+	color: #999999;
+	font-family: "HelveticaUltraLight";
+	letter-spacing:0.05em;
+	margin: 25px 0 30px 0;
+	line-height: 50px;
+	text-align: center;
+	padding: 0px;
+}
+
+.section-5__gallery {
+	margin-bottom: 60px;
+	overflow: auto;
+}
+.section-5__gallery_meet-ray {
+	width: 375px;
+	height: 250px;
+	margin: 3px 2px 3px 3px;
+	float: left;
+	background: url(../images/meet-ray.png) center no-repeat;
+	
+}
+.section-5__gallery_meet-ray:hover {
+	background: url(../images/meet-ray-hover.png) center no-repeat;
+}
+
+.section-5__gallery_search {
+	width: 375px;
+	height: 250px;
+	margin: 3px 2px 3px 3px;
+	float: left;
+	background: url(../images/search.png) center no-repeat;	
+}
+.section-5__gallery_search:hover {
+	background: url(../images/search-hover.png) center no-repeat;
+}
+
+.section-5__gallery_discovery {
+	width: 375px;
+	height: 250px;
+	margin: 3px 2px 3px 3px;
+	float: left;
+	background: url(../images/discovery.png) center no-repeat;
+}
+.section-5__gallery_discovery:hover {
+	background: url(../images/discovery-hover.png) center no-repeat;
+}
+.section-5__gallery_kids {
+	width: 375px;
+	height: 250px;
+	margin: 3px 2px 3px 3px;
+	float: left;
+	background: url(../images/kids.png) center no-repeat;
+	
+}
+.section-5__gallery_kids:hover {
+	background: url(../images/kids-hover.png) center no-repeat;
+}
+
+.section-5__gallery_dish-network-on-ray {
+	width: 375px;
+	height: 250px;
+	margin: 3px 2px 3px 3px;
+	float: left;
+	background: url(../images/dish-network-on-ray.png) center no-repeat;
+	
+}
+.section-5__gallery_dish-network-on-ray:hover {
+	background: url(../images/dish-network-on-ray-hover.png) center no-repeat;
+}
+
+.section-5__gallery_universal-remote {
+	width: 375px;
+	height: 250px;
+	margin: 3px 2px 3px 3px;
+	float: left;
+	background: url(../images/universal-remote.png) center no-repeat;
+	
+}
+.section-5__gallery_universal-remote:hover {
+	background: url(../images/universal-remote-hover.png) center no-repeat;
+}
+
+.section-5__gallery_streaming {
+	width: 375px;
+	height: 250px;
+	margin: 3px 2px 3px 3px;
+	float: left;
+	background: url(../images/streaming.png) center no-repeat;	
+}
+.section-5__gallery_streaming:hover {
+	background: url(../images/streaming-hover.png) center no-repeat;
+}
+
+.section-5__gallery_super-easy-set-up {
+	width: 375px;
+	height: 250px;
+	margin: 3px 2px 3px 3px;
+	float: left;
+	background: url(../images/super-easy-set-up.png) center no-repeat;	
+}
+.section-5__gallery_super-easy-set-up:hover {
+	background: url(../images/super-easy-set-up-hover.png) center no-repeat;
+}
+
+.section-5__gallery_tech-specs {
+	width: 375px;
+	height: 250px;
+	margin: 3px 2px 3px 3px;
+	float: left;
+	background: url(../images/tech-specs.png) center no-repeat;	
+}
+.section-5__gallery_tech-specs:hover {
+	background: url(../images/tech-specs-hover.png) center no-repeat;
+}
+

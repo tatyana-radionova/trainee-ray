@@ -1,0 +1,30 @@
+.section-1 {
+	text-align: center;
+	margin-top: 30px;
+}
+.section-1__title-1 {
+	font-size: 0.87em;
+	color: #2ac4f3;
+	font-family: "HelveticaLight";
+	margin: 0px;
+}
+.section-1__title-2{
+	font-size: 2.45em;
+	color: #1e1e1e;
+	font-family: "HelveticaUltraLight";
+	margin: 10px 0 0 0;
+	line-height: 50px;
+	letter-spacing:0.05em;
+}
+.section-1__text {
+	font-size: 1em;
+	color: #999999;
+	font-family: "HelveticaLight";
+	margin: 20px 0 0 0;
+	line-height: 26pt;
+}
+.section-1__image {
+	width: 1116px;
+	height: 693px;
+	background-image: url(../images/first-part-image.png);
+}

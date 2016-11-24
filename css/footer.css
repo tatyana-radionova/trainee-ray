@@ -1,0 +1,72 @@
+.footer {
+	margin: 45px 0 10px 0;
+}
+
+.footer__menu {
+	height: 25px;
+	text-align: center;
+ 	margin: 0 0 30px 45px;	
+ 	padding: 0px;
+}
+.footer__menu_item {
+	font-size: 0.91em;	
+	color: #1e1e1e;
+	font-family: "HelveticaRegular";
+	margin-right: 45px;
+	display: inline-block;
+	text-decoration: none;			
+}
+
+.footer__menu_item:hover {
+    border-bottom: 1px solid #2ac4f3;
+    padding-bottom: 5px;
+}
+
+.sign-up-form {
+	text-align: center;
+	margin-bottom: 20px;
+}
+.sign-up-form__entry {
+	font-size: 0.875em;
+	color: #999999;
+	font-family: "HelveticaLight";
+	padding: 10px 80px 10px 20px;
+	border-radius: 5px;
+	border: 1px solid #e6e6e6;
+}
+
+.sign-up-form__button {
+	font-size: 0.8em;
+	color: #FFF;
+	font-family: "HelveticaRegular";
+	padding: 10px 5px 10px 5px;
+	border-radius: 5px;
+	border: 1px solid #1e1e1e;
+	background-color: #1e1e1e;
+}
+.sign-up-form__button:hover { 
+    background: #2ac4f3;
+    border: 1px solid #2ac4f3;
+}
+
+.social-network {
+	margin: 0 0 35px 0;
+	text-align: center;
+}
+
+.social-network__list {
+	padding: 0px;
+	margin: 0px;
+}
+.social-network__list_item {
+	display: inline-block;
+	padding:0 10px 0 10px;	
+}
+
+.footer__copyright {
+	font-size: 0.875em;
+	color: #999999;
+	font-family: "HelveticaLight";
+	margin: 0 0 40px 0;
+	text-align: center;
+}

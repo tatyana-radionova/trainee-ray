@@ -1,0 +1,65 @@
+
+.section-3 {
+	background-color: #1e2c37;
+	/*overflow:hidden;*/
+}
+.section-3__title {
+	font-size: 2.45em;
+	color: #FFF;
+	font-family: "HelveticaUltraLight";
+	letter-spacing:0.05em;
+	line-height: 50px;
+	text-align: center;
+	margin: 55px 0 0 0;
+}
+.device-type {
+	margin: 55px 0px 55px 0px;
+	float: left;
+	width: 228px;
+}
+.device-type__item {
+	font-size: 1em;
+	color: #86949e;
+	 font-family: "HelveticaRegular";
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.device-type__model  {
+	padding: 0px;
+	margin: 15px 0 0px 0;
+}
+.device-type__model_item {
+	font-size: 1em;
+	color: #86949e;
+	font-family: "HelveticaLight";
+	margin: 15px 0 0 0;
+	list-style-type: none;
+
+}
+.device-type__model_and-more {
+	font-size: 1em;
+	color: #2ac4f3;
+	 font-family: "HelveticaRegular";
+	margin: 15px 0 0 0;
+	list-style-type: none;
+}
+
+.section-3__button-container {
+	text-align: center;
+	clear: both;
+}
+.section-3__button {
+	background: #1e2c37;
+    height: 55px;
+    width:215px;
+    border-radius: 5px;
+    border: 1px solid #86949e;
+    color: #FFF;
+    font-family: "HelveticaRegular";
+	font-size: 1em;
+	margin-bottom: 75px;
+}
+.section-3__button:hover { 
+    background: #2ac4f3;
+    border: 1px solid #2ac4f3;
+}
